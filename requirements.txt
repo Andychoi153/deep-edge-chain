@@ -33,7 +33,7 @@ gipc==0.4.0
 greenlet==0.4.13
 idna==2.7
 ipaddress==1.0.22
-ipython==5.7.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 jsonext==0.4.2
 leveldb==0.194
