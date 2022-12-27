@@ -68,7 +68,7 @@ scandir==1.7
 scrypt==0.8.6
 secp256k1==0.13.2
 semantic-version==2.6.0
-setuptools==37.0.0
+setuptools==65.5.1
 simplegeneric==0.8.1
 six==1.11.0
 statistics==1.0.3.5
